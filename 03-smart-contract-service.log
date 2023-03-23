@@ -1,0 +1,11 @@
+Deployed contract with ID:  ContractId {
+  shard: Long { low: 0, high: 0, unsigned: false },
+  realm: Long { low: 0, high: 0, unsigned: false },
+  num: Long { low: 3904947, high: 0, unsigned: false },
+  evmAddress: null,
+  _checksum: null
+}
+Result from function1:  12
+Result from function2:  14
+
+https://hashscan.io/testnet/contract/0.0.3904947
